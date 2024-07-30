@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote name="lineage"
-        fetch="https://github.com/LineageOS" />
-  
-  <remote  name="6768Team"
-           fetch="https://github.com/6768Team" />
-
-  <remote  name="tecno-mt6768"
-           fetch="https://github.com/tecno-mt6768" />
-
-  <remote  name="memetek"
-           fetch="https://github.com/nashc-dev" />
- <!-- Device Trees -->
-  <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-21.0"/>
- <!-- Vendor Trees -->
-  <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-21.0"/>
- <!-- Extras -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="6768Team" revision="lineage-21.0"/>
-  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="memetek" revision="next/arrow-13.0"/>
-  
+<!-- Generated using sounddrill31/actions_generate_local_manifests -->
+    <!-- Remotes -->
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
+    <remote name="tecno-mt6768" fetch="https://github.com/tecno-mt6768" clone-depth="1" />
+    <!-- Repos -->
+    <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-TECNO-KH7n-20240719" />
+    <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="vendor-TECNO-KH7n-20240719" />
+    <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="LineageOS" revision="lineage-21" />
+    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="LineageOS" revision="lineage-21" />
 </manifest>
