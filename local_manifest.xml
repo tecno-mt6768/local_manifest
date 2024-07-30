@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote name="lineage"
+        fetch="https://github.com/LineageOS" />
+  
   <remote  name="6768Team"
            fetch="https://github.com/6768Team"/>
 
   <remote  name="tecno-mt6768"
-           fetch="https://github.com/tecno-mt6768"
-           revision="twelve"/>
+           fetch="https://github.com/tecno-mt6768"/>
 
   <remote  name="memetek"
            fetch="https://github.com/nashc-dev"/>
-
-
  <!-- Device Trees -->
   <project path="device/tecno/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-21.0"/>
  <!-- Vendor Trees -->
   <project path="vendor/tecno/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-21.0"/>
-  
- 
  <!-- Extras -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="6768Team" revision="lineage-21.0"/>
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="memetek" revision="next/arrow-13.0"/>
