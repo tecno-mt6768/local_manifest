@@ -2,8 +2,8 @@
 <manifest>
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
     <!-- Remotes -->
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
     <remote name="tecno-mt6768" fetch="https://github.com/tecno-mt6768" clone-depth="1" />
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
     <!-- Repos -->
     <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-TECNO-KH7n-20240719" />
     <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="vendor-TECNO-KH7n-20240719" />
