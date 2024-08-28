@@ -7,6 +7,6 @@
     <!-- Repos -->
     <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-TECNO-KH7n-20240719" />
     <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="vendor-TECNO-KH7n-20240719" />
-    <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="LineageOS" revision="lineage-21" />
-    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="LineageOS" revision="lineage-21" />
+    <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="tecno-mt6768" revision="lineage-21" />
+    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="tecno-mt6768" revision="lineage-21" />
 </manifest>
