@@ -12,4 +12,5 @@
     <!-- Mediatek -->
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="tecno-mt6768" revision="lineage-21" />
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="tecno-mt6768" revision="lineage-21" />
+    <project path="hardware/transsion" name="hardware_transsion" remote="tecno-mt6768" revision="lineage-21" />
 </manifest>
