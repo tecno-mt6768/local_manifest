@@ -11,6 +11,8 @@
     <project path="device/TECNO/KH7n-kernel" name="device_tecno_kh7n-kernel" remote="tecno-mt6768" revision="device_TECNO-KH7n_kernel" />
     <!-- Hardware Mediatek -->
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="tecno-mt6768" revision="lineage-21" />
+    <!-- Hardware Transsion -->
+    <project path="hardware/transsion" name="hardware_transsion" remote="tecno-mt6768" revision="lineage-20.0" />  
     <!-- Hardware Mediatek Sepolicy -->
     <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="tecno-mt6768" revision="lineage-21" />
 </manifest>
