@@ -4,9 +4,9 @@
     <!-- Remotes -->
     <remote name="tecno-mt6768" fetch="https://github.com/tecno-mt6768" clone-depth="1" />
     <!-- Device -->
-    <project path="device/TECNO/Hentai-Heaven" name="device_tecno_TECNO-Hentai-Heaven" remote="tecno-mt6768" revision="lineage-Hentai-Heaven" />
+    <project path="device/TECNO/Hentai-Heaven" name="device_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="lineage-Hentai-Heaven" />
     <!-- Vendor -->
-    <project path="vendor/TECNO/Hentai-Heaven" name="vendor_tecno_TECNO-Hentai-Heaven" remote="tecno-mt6768" revision="vendor-Hentai-Heaven" />
+    <project path="vendor/TECNO/Hentai-Heaven" name="vendor_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="vendor-Hentai-Heaven" />
     <!-- Kernel -->
     <project path="device/TECNO/KH7n-kernel" name="device_tecno_kh7n-kernel" remote="tecno-mt6768" revision="device_TECNO-KH7n_kernel" />
     <!-- Hardware Mediatek -->
