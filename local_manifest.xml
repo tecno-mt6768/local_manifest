@@ -4,7 +4,7 @@
     <!-- Remotes -->
     <remote name="tecno-mt6768" fetch="https://github.com/tecno-mt6768" clone-depth="1" />
     <!-- Device -->
-    <project path="device/TECNO/Hentai-Heaven" name="device_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="lineage-Hentai-Heaven" />
+    <project path="device/TECNO/Hentai-Heaven" name="device_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="Rising-Hentai-heaven" />
     <!-- Vendor -->
     <project path="vendor/TECNO/Hentai-Heaven" name="vendor_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="vendor-Hentai-Heaven" />
     <!-- Kernel -->
