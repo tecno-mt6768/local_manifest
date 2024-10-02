@@ -4,9 +4,9 @@
     <!-- Remotes -->
     <remote name="tecno-mt6768" fetch="https://github.com/tecno-mt6768" clone-depth="1" />
     <!-- Device -->
-    <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-TECNO-KH7n-20240719" />
+    <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-KH7n" />
     <!-- Vendor -->
-    <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="vendor-TECNO-KH7n-20240719" />
+    <project path="vendor/TECNO/KH7n" name="android_vendor_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="vendor-KH7n" />
     <!-- Kernel -->
     <project path="device/TECNO/KH7n-kernel" name="device_tecno_kh7n-kernel" remote="tecno-mt6768" revision="device_TECNO-KH7n_kernel" />
     <!-- Hardware Mediatek -->
