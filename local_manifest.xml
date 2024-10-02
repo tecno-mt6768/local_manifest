@@ -8,7 +8,7 @@
     <!-- Vendor -->
     <project path="vendor/TECNO/Hentai-Heaven" name="vendor_tecno_Hentai-Heaven" remote="tecno-mt6768" revision="vendor-Hentai-Heaven" />
     <!-- Kernel -->
-    <project path="device/TECNO/KH7n-kernel" name="device_tecno_kh7n-kernel" remote="tecno-mt6768" revision="device_TECNO-KH7n_kernel" />
+    <project path="device/TECNO/Hentai-Heaven-kernel" name="device_tecno_kh7n-kernel" remote="tecno-mt6768" revision="device_TECNO-KH7n_kernel" />
     <!-- Hardware Mediatek -->
     <project path="hardware/mediatek" name="android_hardware_mediatek" remote="tecno-mt6768" revision="lineage-21" />
     <!-- Hardware Transsion -->
