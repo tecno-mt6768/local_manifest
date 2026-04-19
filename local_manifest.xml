@@ -32,6 +32,6 @@
     <remove-project path="packages/apps/Aperture" />
  
     <!-- Apps Aperture -->
-    <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lineage" revision="lineage-19.1" />
+   <!-- <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lineage" revision="lineage-19.1" /> -->
         
 </manifest>
