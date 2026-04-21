@@ -29,7 +29,7 @@
     <project path="vendor/mediatek/ims" name="android_mediatek_ims" remote="tecno-mt6768" revision="android_mediatek_ims_kh7n" />
      
     <!-- Remove Projects -->
-    <!-- <remove-project path="packages/apps/Aperture" />
+    <!-- <remove-project path="packages/apps/Aperture" /> -->
  
     <!-- Apps Aperture -->
     <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="lineage" revision="lineage-20" />
