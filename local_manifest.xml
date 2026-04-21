@@ -3,9 +3,9 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
     <!-- Remotes -->
     <remote name="lineage"
-        fetch="https://gitlineage.com/LineageOS" />
+         fetch="https://github.com/LineageOS" />
     <remote name="tecno-mt6768"
-         fetch="https://gitlineage.com/tecno-mt6768" />
+         fetch="https://github.com/tecno-mt6768" />
 	    
     <!-- Device -->
     <project path="device/TECNO/KH7n" name="lineage_device_tecno_TECNO-KH7n" remote="tecno-mt6768" revision="lineage-KH7n" />
